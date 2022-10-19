@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kajita", "kajita\kajita.csproj", "{127FC589-6F90-4E56-A63C-D7DE22566024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127FC589-6F90-4E56-A63C-D7DE22566024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127FC589-6F90-4E56-A63C-D7DE22566024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127FC589-6F90-4E56-A63C-D7DE22566024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127FC589-6F90-4E56-A63C-D7DE22566024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E29F73D-C362-4321-B0A7-9825DF6799AF}
+	EndGlobalSection
+EndGlobal
